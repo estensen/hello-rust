@@ -2,7 +2,7 @@
 
 ```
 $ cargo build
-$ ./target/debug/hello_world
+$ ./target/debug/hello_rust
 Hello Rust!
 ```
 
